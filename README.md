@@ -1,5 +1,7 @@
 **This repository contains a fork that reflects changes required for CPU supported infer and denoise.**
 
+**Development process videos: https://www.youtube.com/playlist?list=PLeYxH0Vd8lotuJeGbGbdG7k7hAe3PjUaV**
+
 # Tacotron 2 (without wavenet)
 
 PyTorch implementation of [Natural TTS Synthesis By Conditioning
